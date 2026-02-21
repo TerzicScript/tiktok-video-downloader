@@ -50,21 +50,6 @@ python tiktok_downloader.py
 
 ---
 
-## 📂 Project Structure
-
-
-.
-├── tiktok_downloader.py   # Main script
-├── README.md              # Project documentation
-└── videos/                # Created automatically
-    └── [username]/        # Organized by TikTok handle
-        ├── 0.mp4
-        ├── 1.mp4
-        └── ...
-
-
----
-
 ## ⚙️ Technical Logic
 
 
